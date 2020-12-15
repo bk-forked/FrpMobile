@@ -6,6 +6,6 @@
 
 #### 2020.09.20
 * Forked from [HaidyCao/frp](https://github.com/HaidyCao/frp)
-* Upload the [Releases](https://github.com/bttb520/FrpMobile/releases)
+* Upload the [Releases](https://github.com/bk-forked/FrpMobile/releases)
 * Rename README.md to README_BAK.md
 * Create README.md
